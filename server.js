@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')
 const fs = require('fs')
 const serializeError = require('serialize-error')
 
-const PORT = 8080
+const PORT = 8081
 
 let server = restify.createServer()
 
